@@ -1,3 +1,3 @@
 # Z80JEmu
--Falta traducir algunas cosas al inglés
--
+###-Falta traducir algunas cosas al inglés
+###-
